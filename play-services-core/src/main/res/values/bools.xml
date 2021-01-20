@@ -17,4 +17,5 @@
 
 <resources>
     <bool name="is_gmscore">true</bool>
+    <bool name="microg_settings_launcher">true</bool>
 </resources>
